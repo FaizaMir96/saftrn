@@ -1,0 +1,126 @@
+.firstcard {
+  width: 1150px;
+  height: 1150px;
+  background-color: #2a0a42;
+  color: white;
+}
+.secondcard {
+  width: 1150px;
+  height: 1150px;
+  background-color: #2a0a42;
+  color: white;
+}
+.secondcard nav .nav.nav-pills .nav-link {
+  color: white;
+}
+.row2{
+    width: 700px !important;
+    height: 300px !important;
+}
+img.cover{
+    width=350px;
+     height: 500px;
+}
+
+.mainpage {
+  background-color: #2a0a42;
+  width: 100%;
+  height: 100%;
+}
+.maintext {
+  color: white;
+}
+h6.card-title {
+  color: white;
+}
+p.subtext {
+  color: white;
+  font-size: small;
+}
+img.mainimg {
+  width: 350px !important;
+  height: 350px !important;
+}
+.second {
+  background-color: #2a0a42;
+}
+
+div.card {
+  padding: 10px 23px;
+  margin-top: 20px;
+  background-color: #582272;
+}
+img.card-img-top {
+  width: 255px;
+  margin-top: 10px;
+  height: 240px;
+}
+.discovercard {
+    width: 300px !important; 
+    height: 300px !important;
+}
+.discovercard .card-body{
+    width: 100px;
+    height: 100px;
+
+}
+.discovercard img.card-img-top{
+    height: 200px !important;
+    width: 200px;
+}
+.discovercard p.card-text{
+    width: 50px;
+    height: 50px;
+}
+button.explorebutton {
+  align-items: center;
+  color: white;
+  background-color: #908ab5;
+  width: 130px;
+  height: 45px;
+  border-radius: 5px;
+  margin-left: 30px;
+}
+.navbar-brand {
+  font-size: 20px;
+}
+button.buybutton {
+  align-items: center;
+  color: white;
+  background-color: #908ab5;
+  width: 80px;
+  height: 40px;
+  border-radius: 8px;
+  margin-left: 30px;
+}
+p.card-text {
+  width: 150px;
+}
+div.card-body {
+  height: 100px;
+}
+h2.maintext {
+  padding-left: 40px;
+}
+@media only screen and (min-device-width: 350px) {
+  img.mainimg {
+    width: 280px !important;
+    height: 280px !important;
+    margin-top: 30px;
+    align-content: center;
+  }
+  p.subtext {
+    margin: 0%;
+  }
+  button.explorebutton {
+    margin-top: 20px;
+    justify-content: center;
+  }
+  p.subtext {
+    font-size: x-small;
+  }
+  div.card {
+    width: 16rem;
+    height: 18rem;
+  }
+}
